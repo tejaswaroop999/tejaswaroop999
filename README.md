@@ -41,10 +41,12 @@
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaswaroop999&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+###  📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p>
+🚀 GitHub Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" /> </p>
+💻 Top Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
 ---
 
