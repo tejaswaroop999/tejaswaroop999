@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Teja Swaroop 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast | Content Creator</h3>
+<h3 align="center">🚀 Full Stack Developer | Applied AI Engineer | LLM Systems | Content Creator </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tejaswaroop999&label=Profile%20Views&color=blue&style=flat" alt="profile-views" />
