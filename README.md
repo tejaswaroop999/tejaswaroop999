@@ -37,24 +37,31 @@ Git · GitHub Actions · Vercel · Netlify
 ## Featured Projects
 
 ### [Personalized AI Report](https://github.com/tejaswaroop999/personalized-ai-report)
-Production-style Next.js application that generates personalized reports using the Anthropic Claude API.
+Production-style Next.js application using the Anthropic Claude API.
 
-**Highlights:** server-side model integration, API-key isolation, validation, provider error handling, responsive UI, and production deployment.
-
-### [E-Commerce Platform](https://github.com/tejaswaroop999/ecommerce-platform)
-Full-stack e-commerce project covering product flows, backend services, and commerce workflows.
+**Highlights:** server-side LLM integration, API-key isolation, validation, timeout/error handling, local fallback behavior, responsive UI, and Vercel deployment.
 
 ### [React + NestJS User Registration System](https://github.com/tejaswaroop999/React-NestJS-User-Registration-System)
-Full-stack registration system built with a React frontend and NestJS backend, including validation and REST API integration.
+Full-stack registration system demonstrating React/NestJS integration, validation, and REST API fundamentals.
+
+### [Cryptocurrency Analytics Dashboard](https://github.com/tejaswaroop999/Cryptocurrency-Analytics-Dashboard)
+React dashboard using CoinGecko market data and ApexCharts for cryptocurrency analytics and visualization.
 
 ### [Machine Learning Techniques for Stock Price Forecasting](https://github.com/tejaswaroop999/Machine-Learning-Techniques-for-Stock-Price-Forecasting)
-Machine-learning project exploring stock-price forecasting techniques in Python/Jupyter.
+Academic machine-learning project exploring stock-price forecasting in Python/Jupyter.
+
+---
+
+## Next flagship builds
+
+I'm currently strengthening my portfolio with:
+
+- an **LLM evaluation platform** for model/agent quality, latency, cost, and failure analysis
+- a **LangGraph production agent** with tools, structured outputs, reliability controls, and evaluation
 
 ---
 
 ## Currently focused on
-
-I'm strengthening my work around:
 
 - production LLM systems
 - LangGraph-based agents
