@@ -2,6 +2,10 @@
 
 ### Applied AI Engineer | LLM Systems | Full-Stack AI
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejaswaroop999&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+</p>
+
 I build production AI applications, agentic workflows, backend systems, and full-stack products.
 
 My work spans **LLM integration, AI evaluation, APIs, automation, and product engineering** using Python, TypeScript, LangGraph, LangChain, React/Next.js, Node.js, and modern LLM APIs.
